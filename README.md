@@ -5,6 +5,10 @@
 برای این پروژه از پکیج [jdatetime](https://pypi.org/project/jdatetime/) استفاده شده است
 
 ## نحوه استفاده:
+jdatetime را نصب کنید:
+```shell
+pip install jdatetime
+```
 تنظیمات زیر را به فایل settings.py اضافه کنید:
 ```python
 TIME_ZONE = 'Asia/Tehran'
